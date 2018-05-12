@@ -1,1 +1,1 @@
-Linux Mint Themes
+Chocolate Mint
