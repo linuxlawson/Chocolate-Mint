@@ -1,4 +1,1 @@
-# Mint-Themes
-Coming soon...
-
-(once I figure this out)
+Linux Mint Themes
