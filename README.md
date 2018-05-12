@@ -1,1 +1,1 @@
-Linux Mint Themes
+Linux Mint Theme
