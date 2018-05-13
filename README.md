@@ -1,1 +1,1 @@
-Theme for Linux Mint
+Theme for Linux Mint 18
