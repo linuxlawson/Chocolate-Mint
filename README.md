@@ -1,3 +1,3 @@
 Theme for Linux Mint 18
 
-This is the menu and panel only. Does not include windows borders or controls.
+Menu and Panel only (cinnamon.css). Does not include Windows Borders or Controls (at this time).
