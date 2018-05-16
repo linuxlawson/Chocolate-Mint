@@ -1,3 +1,3 @@
-Theme for Linux Mint 18
+Theme made for Linux Mint 18
 
-This is the desktop only (menu and panel), does not include windows borders or controls.
+This is the menu and panel only. Does not include windows borders or controls.
