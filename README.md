@@ -1,6 +1,6 @@
 ## Chocolate Mint
 
-Theme for Linux Mint 18
+Updated to work on Linux Mint 20.3 (Una)
 
-Menu and Panel only (cinnamon.css).  
+Menu, Panel, and Calender only (cinnamon.css).  
 Does not include Windows Borders or Controls.
