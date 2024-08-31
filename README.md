@@ -14,13 +14,13 @@ To use:
 
 3. If .themes doesnt exist, create it. Right click >> Create New Folder, >> type .themes
 
-4. Paste the theme you copied into the .themes folder 
+4. Paste the theme you copied into the .themes folder.     
 
 If you have to create a .themes folder, it should have a period in front of it >> .themes
 
-5. Replace the cinnamon.css in your copy of Mint-Y-Dark with halloween cinnamon.css.
+5. Replace the cinnamon.css in your copy of Mint-Y-Dark with cinnamon.css found above.  
 
-4. Rename Mint-Y-Dark to Halloween (or whatever..)
+4. Rename new copy to Chocolate Mint (or whatever..)
 
 It should now show up in your themes under: System Settings >> Themes >> Desktop  
 
